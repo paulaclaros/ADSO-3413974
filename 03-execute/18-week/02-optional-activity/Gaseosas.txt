@@ -1,0 +1,15 @@
+1. Falta de stock de algunos productos
+
+Problema: A veces algunos productos se terminan y no hay para vender.
+
+Solución:
+
+Llevar un registro de los productos que más compran los clientes para saber cuáles se deben pedir con mayor frecuencia. También es importante establecer días fijos para revisar el inventario y hacer los pedidos con tiempo, evitando que los productos se agoten.
+
+2. Los productos antiguos se vencen porque se venden primero los nuevos
+
+Problema: Se ponen a la venta los productos recién llegados y los más antiguos quedan guardados hasta vencer.
+
+Solución:
+
+Organizar el almacén de manera que los productos con la fecha de vencimiento más cercana sean los primeros en salir. Además, realizar revisiones semanales para identificar productos próximos a vencer y planificar ofertas o paquetes promocionales antes de que caduquen, reduciendo así las pérdidas.
